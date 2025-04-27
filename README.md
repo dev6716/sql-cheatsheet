@@ -320,7 +320,7 @@ ROLLBACK;
 
 ---
 
-# 🔥 FINAL TIPS for BCG X Data Engineering Interviews
+# 🔥 FINAL TIPS for Data Engineering Interviews
 
 - Practice writing queries **without auto-complete**.
 - **Always use table aliases** for clarity.
